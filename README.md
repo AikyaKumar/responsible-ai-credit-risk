@@ -1,2 +1,2 @@
 # responsible-ai-credit-risk
-Leakage-audited, fairness-checked and explainable credit-risk model with a model card and red-team tests.
+A responsible-AI workflow demonstrated on a credit-risk classifier. The target label is a synthetic rule on the inputs, so metrics show how well the model approximates that rule, not real credit risk.
